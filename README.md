@@ -12,8 +12,8 @@ Welcome to my github repository! My name is Dmitrii Kabatsiura. I am from Russia
 - ❤️ My hobbies are skiing, hiking, gym, reading and raise two my sons.
 - 📫 How to reach me: dmitriy.kabatsyura@gmail.com
 - ⚡ Yet another interesting facts about me:
-- Winner of the competition among managers «Leaders of Kuban» (8000 participants, 29 winners).
-- Certified business tracker. I help enterpreneuers and startups to grow their business from ideas to MVP.
-- I've B2-level English proficiency (upper intermediate).
+  + Winner of the competition among managers «Leaders of Kuban» (8000 participants, 29 winners).
+  + Certified business tracker. I help enterpreneuers and startups to grow their business from ideas to MVP.
+  + I've B2-level English proficiency (upper intermediate).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabatsyura&layout=compact)](https://github.com/kabatsyura/github-readme-stats)

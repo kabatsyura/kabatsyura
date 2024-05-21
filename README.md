@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my github repository! My name is Dmitrii Kabatsiura. I am from Russia and here you can find some interesting facts about me :-)
+Welcome to my github repository! My name is Dmitrii Kabatsiura. I am from Russia and here you can find some interesting facts about me 😊
 
 - 🏬 In the past I was an expert as a **supply chain specialist and business intelligence analytics**. **Managed team of seven-person** logisticians and analysts. **Have 11 years of experience**.
 - 🚀 I was a **participant of programming camp “School-21”** from SBER. 21-school.ru. It is a franchise from 42.fr, which is popular in Europe and the USA. **Provided more than 10 training projects (check my repository).**
@@ -13,4 +13,4 @@ Welcome to my github repository! My name is Dmitrii Kabatsiura. I am from Russia
 - Certified business tracker. I help enterpreneuers and startups to grow their business from ideas to MVP.
 - I've B2-level English proficiency (upper intermediate).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabatsyura&hide_progress=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabatsyura&layout=donut)](https://github.com/kabatsyura/github-readme-stats)

@@ -3,11 +3,12 @@
 Welcome to my github repository! My name is Dmitrii Kabatsiura. I am from Russia and here you can find some interesting facts about me 😊
 
 - 🚀 I was a **participant of programming camp “School-21”** from SBER. 21-school.ru. It is a franchise from 42.fr, which is popular in Europe and the USA. **Provided more than 10 training projects (check my repository).** All my projects are here https://github.com/kabatsyura/school-21.
-- 🌱 Now, I’m currently **learning web technologies** (JS, TS, sql) for building useful apps and **data analytics** in the Hexlet college. Below, you can see my projects:
-  + The Brian Games. My first project in JS. https://github.com/kabatsyura/frontend-project-44
-  + The Brian Games. My first project in Java. https://github.com/kabatsyura/java-project-61
-  + Gendiff is the program, which compares differences between two files. https://github.com/kabatsyura/frontend-project-46
-- 👯 I’m looking for opportunities to join in the team of profesional developers, where my skills will be helpful.
+- 💎 **My career track:**
+  + supply chain specialist (6 years of experience, as team-leader - 3 years of experience);
+  + business analyst (3 years of experience);
+  + web-programmer (since fall 2023);
+- 💻 Work with **Laravel** (php) and **React** (TypeScript).
+- 👯 Always looking for opportunities to join in the team of profesional developers, where my skills will be helpful.
 - ❤️ My hobbies are skiing, hiking, gym, reading and raise two my sons.
 - 📫 How to reach me: dmitriy.kabatsyura@gmail.com
 - ⚡ Yet another interesting facts about me:
